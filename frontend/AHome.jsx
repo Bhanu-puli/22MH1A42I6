@@ -1,4 +1,3 @@
-// pages/Home.js
 import React, { useState } from "react";
 import { TextField, Button, Grid, Typography, Paper } from "@mui/material";
 import LoggingService from "./logging";
